@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "592573539714",
+    "firebase_url": "https://chuckchuckchuchu.firebaseio.com",
+    "project_id": "chuckchuckchuchu",
+    "storage_bucket": "chuckchuckchuchu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592573539714:android:d54acaa53ea06b32fa9b9b",
+        "android_client_info": {
+          "package_name": "com.chuckchu.chuckchuck_chuchu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592573539714-tmakq0u2g4alfq3rdar5s5nc85i2r5mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCME_lzM7-WCEIMNu7H6LK-o-rEWPWgxXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592573539714-tmakq0u2g4alfq3rdar5s5nc85i2r5mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
